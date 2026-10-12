@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lukenydireito55@gmail.com
+	name = lukenydireito
